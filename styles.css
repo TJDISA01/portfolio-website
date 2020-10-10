@@ -1,0 +1,75 @@
+html {
+    background-color: #999999;
+}
+
+body {
+    background-color: #999999;
+}
+
+.rectangle {
+    background-color: #666666;
+    height: 110%;
+    margin: 15px 0px;
+}
+
+.rectangle2 {
+    background-color: #eeeeee;
+    height: 90%;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+h1 {
+    background-color: #2e7aff;
+    border-radius: 25px;
+    height: 2.5em;
+    width: 99.99%;
+    position: relative;
+    top: 10px;
+    left: 0px;
+    vertical-align: middle;
+}
+
+.heading {
+    position: relative;
+    top: 25px;
+    font-size: inherit;
+}
+
+.indent {
+    text-indent: 50px;
+}
+
+.hide {
+    text-decoration: none;
+}
+
+li {
+    position: relative;
+    right: 25px;
+    list-style-type: none;
+} 
+
+a {
+    text-decoration: underline;
+}
+
+.main_text {
+    position: relative;
+    left: 10px;
+}
+
+h3 {
+    position: relative;
+    left: 10px;
+}
+
+h4 {
+    position: relative;
+    left: 10px;
+}
+
+p {
+    font-size: larger;
+}
